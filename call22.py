@@ -6,7 +6,7 @@ from requests import post
 #MASUKAN NOMOR DI KOLOM VARIABLE URL
 #MASUKAN NOMOR ANDA 62/0
 #CONTOH 08xxxxxxxx Atau 62xxxxxxx
-url = "https://id.jagreward.com/member/verify-mobile/nomor target di sini/"
+url = "https://id.jagreward.com/member/verify-mobile/nomortarget/"
 
 
 
