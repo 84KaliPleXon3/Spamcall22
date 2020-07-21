@@ -86,7 +86,7 @@ class prankcall{
 	}
 	public function run(){
 		while(true){
-			echo "noroot@.Mr.Albimo22=# Kirim Mode Manual/Auto ?(y/t) : ";
+			echo "root@.Mr.Albimo22=# Kirim Mode Manual/Auto ?(y/t) : ";
 			$loop = $this->get();
 			if($loop=="y" OR $loop=="t"){
 				break;
@@ -96,7 +96,7 @@ class prankcall{
 			}
 		}
 		if($loop=="y"){
-			echo "noroot@.Mr.Albimo22=# Masukan Jumlah Spam : ";
+			echo "root@.Mr.Albimo22=# Masukan Jumlah Spam : ";
 			$many = $this->get();
 			$this->loop($many);
 		}else{
@@ -127,11 +127,11 @@ echo $white."
 echo "\n";
 echo "\n";
 echo "+-----------------------------------+\n";
-echo "| [!] 0821***** or 62813******  [!] |\n";
+echo "| [!] 0813***** or 62813******  [!] |\n";
 echo "+-----------------------------------+\n";
 echo " \n";
 sleep ('0.4');
-echo "noroot@.Mr.Albimo22=# Input No Target : ";
-$no = get();
+echo "root@.Mr.Albimo22=# Input No Target : ";
+$yes = get();
 $n = new prankCall($yes);
 $n->run();
