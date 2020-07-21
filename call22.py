@@ -3,6 +3,7 @@ import requests
 import subprocess
 from requests import post
 
+#TEAM HACKER ALBIMO22 MR. RRC7F77
 #MASUKAN NOMOR DI KOLOM VARIABLE URL
 #MASUKAN NOMOR 62/0
 #CONTOH 08938373772
@@ -49,8 +50,8 @@ subprocess.call("figlet Spamcall22 |lolcat",shell=True)
 banner = """
 \033[1;97m
 ==================================================
-Recoder  \033[1;91m:\033[1;96mAyipBontos\033[1;97m
-Website \033[1;91m:\033[1;96mhttps://termux.id\033[1;97m
+Recoder  \033[1;91m:\033[1;96mAlbimo22\033[1;97m
+Youtube \033[1;91m:\033[1;96mChannel.betazona\033[1;97m
 Whatsapp  \033[1;91m:\033[1;92m+6281344834xxx\033[1;97m
 ==================================================
 """
